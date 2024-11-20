@@ -1,144 +1,81 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6EA5F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Tariq;System+Design+Expert;Cloud+%26+DevOps+Architect;Full+Stack+Developer" alt="Typing SVG" />
-</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alitariq-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/Alitariq-code?label=Followers&style=social" alt="followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Ali+Tariq;%F0%9F%9A%80+Solution+Architect;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Expert;%F0%9F%92%BB+Full+Stack+Wizard" />
 </div>
 
-<br/>
+```js
+const whoAmI = {
+    name: "Ali Tariq",
+    title: "Full Stack Developer & Cloud Architect",
+    superpower: "Turning ☕️ into scalable solutions",
+    focus: "Building high-impact digital experiences",
+    passions: ["System Design", "Problem Solving", "Cloud Architecture"],
+    currentlyObsessedWith: "Microservices & Event-driven Architecture"
+}
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
+</div>
+
+## 🎯 What I Do Best
+
+- 🏗️ **Architecture**: Design scalable systems that solve real problems
+- 🚀 **Development**: Create robust full-stack applications that users love
+- ☁️ **Cloud & DevOps**: Build and deploy resilient cloud infrastructures
+- 💡 **Innovation**: Transform complex challenges into elegant solutions
+
+## 🛠️ Tech Stack
 
 <div align="center">
   
-```javascript
-const ali = {
-  title: "Full Stack Developer & Cloud Architect",
-  passion: "Turning Complex Problems into Elegant Solutions",
-  code: ["JavaScript", "TypeScript", "Python", "C++"],
-  expertise: {
-      frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
-      backend: ["Node.js", "Express", "NestJS", "Django"],
-      cloud: ["AWS", "Docker", "Kubernetes", "Jenkins"],
-      architecture: ["Microservices", "Event-Driven", "DDD", "TDD"],
-      databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL"]
-  },
-  currentFocus: "Building scalable, resilient microservices architectures",
-  funFact: "I debug in my dreams and wake up with solutions! 🚀"
-};
-```
-
+  **Frontend Sorcery** <br>
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
+  **Backend Magic** <br>
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  **Cloud Mastery** <br>
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-  🎯 I'm a problem-solving enthusiast who loves architecting complex systems<br/>
-  🏗️ Expert in designing scalable microservices architectures<br/>
-  ☁️ Cloud & DevOps specialist with extensive AWS experience<br/>
-  🚀 Passionate about optimizing system performance and scalability<br/>
-  🎨 Converting business requirements into elegant technical solutions<br/>
-  🔄 Advocate for continuous learning and technological innovation
-</p>
+## 📈 GitHub Magic
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Alitariq-code&cc=0D1117&tc=fff&ic=fff&bc=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alitariq-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alitariq-code&theme=tokyonight&hide_border=true&background=0D1117" width="400">
 </div>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alitariq-code&theme=react-dark&hide_border=true&bg_color=0D1117" width="800">
+</div>
 
-<details align="center">
-<summary><b>🎨 Frontend Mastery</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,sass" />
-<br/>
-<i>Building responsive and intuitive user interfaces with modern frameworks and tools.</i>
-</details>
-
-<details align="center">
-<summary><b>⚙️ Backend Excellence</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,graphql" />
-<br/>
-<i>Crafting robust and scalable server-side applications with focus on performance.</i>
-</details>
-
-<details align="center">
-<summary><b>☁️ DevOps & Cloud Infrastructure</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,terraform" />
-<br/>
-<i>Orchestrating seamless deployments and maintaining high-availability systems.</i>
-</details>
-
-<details align="center">
-<summary><b>🛢️ Database & Caching</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
-<br/>
-<i>Managing data with efficiency and implementing optimal caching strategies.</i>
-</details>
-
-<h2 align="center">🎯 Expertise Highlights</h2>
-
-```mermaid
-mindmap
-  root((Ali's Expertise))
-    System Design
-      Microservices Architecture
-      Event-Driven Design
-      Scalable Systems
-      High Availability
-    Full Stack Development
-      Frontend Excellence
-      Backend Architecture
-      API Design
-      Performance Optimization
-    Cloud & DevOps
-      AWS Architecture
-      Container Orchestration
-      CI/CD Pipelines
-      Infrastructure as Code
-    Problem Solving
-      System Analysis
-      Performance Tuning
-      Architecture Patterns
-      Best Practices
-```
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alitariq-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alitariq-code&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Let's Build Something Amazing!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:alitariqcode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Alitariq-code">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <div align="center">
-  <h3>💼 Open for exciting opportunities and collaborations!</h3>
-  <p>Let's build something amazing together! 🚀</p>
+  <h3>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Alitariq-code/Alitariq-code/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
