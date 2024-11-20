@@ -4,20 +4,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="900">
 </div>
 
-<!-- Option 3: Clean Tech Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="900">
-</div>
-
-<!-- Option 4: Coding Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-<!-- Option 5: Modern Development Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="900">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Ali+Tariq;%F0%9F%9A%80+Solution+Architect;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Expert;%F0%9F%92%BB+Full+Stack+Wizard" />
